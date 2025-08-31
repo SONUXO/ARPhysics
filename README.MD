@@ -57,4 +57,39 @@ Through experimental evaluation, students demonstrated significant improvement i
 6. **Demo**  
    ![Demo Screenshot 6](images/image5.jpg)  
 
+---
 
+## 📂 Project Structure  
+ARPhysics/
+│── Assets/
+│   |── Audio/
+│   |── Editor/
+│   |── Firebase/
+│   |── Plugins/
+│   |── Resources/
+│   |── Scenes/
+│   |── Scripts/
+│   |── StreamingAssests/
+│   |── TextMesh Pro/
+│   |── XR/
+|
+│── Builds/ 
+│── Library/ 
+│── Logs/ 
+│── Packages/
+│── ProjectSettings/
+│── QCAR/
+│── UserSettings/
+│── README.md # Project Documentation
+
+---
+📊 Evaluation
+Through student trials and experimental evaluation, ARPhysics has shown:
+1. 📈 Improved comprehension of abstract physics concepts.
+2. ⏳ Better retention compared to traditional teaching methods.
+3. 🎮 Increased engagement through interactive simulations.
+---
+
+📬 Contact
+For any queries or collaborations, feel free to connect:
+📧 Email: sonumonird@gmail.com
