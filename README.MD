@@ -40,22 +40,22 @@ Through experimental evaluation, students demonstrated significant improvement i
 ## 📷 Demo Screenshots  
 
 1. **Login Page**  
-   <img src="images/image1.png" alt="Demo Screenshot" width="400" height="250">
+   <img src="images/image1.png" alt="Demo Screenshot" width="400" height="400">
 
 2. **SignUp Page**  
-   ![Demo Screenshot 2](images/image4.png)  
+   <img src="images/image4.png" alt="Demo Screenshot" width="400" height="400">
 
 3. **Home Page**  
-   ![Demo Screenshot 3](images/image2.png)  
+   <img src="images/image2.png" alt="Demo Screenshot" width="400" height="400">
 
 4. **Feedback Form**  
-   ![Demo Screenshot 4](images/image3.png)  
+   <img src="images/image3.png" alt="Demo Screenshot" width="400" height="400">
 
 5. **Demo**  
-   ![Demo Screenshot 5](images/image6.jpg)  
+   <img src="images/image6.jpg" alt="Demo Screenshot" width="400" height="400">  
 
 6. **Demo**  
-   ![Demo Screenshot 6](images/image5.jpg)  
+   <img src="images/image5.jpg" alt="Demo Screenshot" width="400" height="400">
 
 ---
 
