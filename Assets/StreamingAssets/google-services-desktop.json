@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "firebase_url": "null",
+    "project_number": "11292282730",
+    "project_id": "focus-bivouac-403404",
+    "storage_bucket": "focus-bivouac-403404.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11292282730:android:360b9c81d4b3f15a3e9f13",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.ARPhysics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5FZs56jNTF3TJ0W6HrSFJAyFjbMHi4Ec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
