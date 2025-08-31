@@ -40,7 +40,7 @@ Through experimental evaluation, students demonstrated significant improvement i
 ## 📷 Demo Screenshots  
 
 1. **Login Page**  
-   ![Demo Screenshot 1](images/image1.png)  
+   <img src="images/image1.png" alt="Demo Screenshot" width="400" height="250">
 
 2. **SignUp Page**  
    ![Demo Screenshot 2](images/image4.png)  
@@ -59,7 +59,9 @@ Through experimental evaluation, students demonstrated significant improvement i
 
 ---
 
-## 📂 Project Structure  
+## 📂 Project Structure 
+
+```
 ARPhysics/
 │── Assets/
 │   |── Audio/
@@ -82,6 +84,7 @@ ARPhysics/
 │── UserSettings/
 │── README.md # Project Documentation
 
+```
 ---
 📊 Evaluation
 Through student trials and experimental evaluation, ARPhysics has shown:
