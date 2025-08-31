@@ -21,7 +21,6 @@ Through experimental evaluation, students demonstrated significant improvement i
 ## 📖 Publication
 **Conference**: *International Conference On Advances in Smart Sensor, Signal Processing And Communication Technology 2024*
 
-**certificate**:
    <img src="images/publication.png" alt="publication" width="500" height="400">
 
 ---
