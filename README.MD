@@ -39,16 +39,23 @@ Through experimental evaluation, students demonstrated significant improvement i
 
 ## 📷 Demo Screenshots  
 
-(Add your screenshots here for better project visualization)  
+1. **Login Page**  
+   ![Demo Screenshot 1](images/image1.png)  
 
-1. **Home Screen / Dashboard**  
-   ![Demo Screenshot 1](path/to/screenshot1.png)  
+2. **SignUp Page**  
+   ![Demo Screenshot 2](images/image4.png)  
 
-2. **3D Physics Simulation (e.g., Conservation of Energy)**  
-   ![Demo Screenshot 2](path/to/screenshot2.png)  
+3. **Home Page**  
+   ![Demo Screenshot 3](images/image2.png)  
 
-3. **Wave Kinetics in AR**  
-   ![Demo Screenshot 3](path/to/screenshot3.png)  
+4. **Feedback Form**  
+   ![Demo Screenshot 4](images/image3.png)  
+
+5. **Demo**  
+   ![Demo Screenshot 5](images/image6.jpg)  
+
+6. **Demo**  
+   ![Demo Screenshot 6](images/image5.jpg)  
 
 ---
 
